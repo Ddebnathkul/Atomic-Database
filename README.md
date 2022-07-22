@@ -43,5 +43,6 @@ Our database contain information about line tranistions from various elements of
 29 |   Cu    |           6                 |            60561
 30 |   Zn    |           3                 |             1212
 
-![plot](./images/Gf_elementwise_new.png)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Ddebnathkul/Atomic-Database/commit/20837622cbdc7864ed471d0bc4514b82cf51918e#commitcomment-79145890)?raw=true)
+
 
