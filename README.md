@@ -10,6 +10,7 @@
 # Detailed breakdown of number of lines per ionization state in the file 'Lines'
 
  Z | Element | Number of Ionization stages | Total Number of Spectral Lines
+ ---------------------------------------------------------------------------
  1 |    H    |           1                 |               39
  2 |   He    |           2                 |              195
  3 |   Li    |           3                 |              262
