@@ -43,5 +43,5 @@ Our database contain information about line tranistions from various elements of
 29 |   Cu    |           6                 |            60561
 30 |   Zn    |           3                 |             1212
 
-![Screenshot](Gf_elementwise_new.png =250x250)
+![](Gf_elementwise_new.png =250x250)
 
