@@ -5,8 +5,9 @@
 ###### Maximum excitation level :  50
 ###### Total number of spectral line transition : 5174882
 
-Contains data from Munich Atomic database, Chainti Atomic database, CMFGEN Atomic database and NIST Atomic database
-Table contains the number of spectral lines from every element in the database
+Our database contain information about line tranistions from various elements of the periodic table. The excitation level data is capped to a maximum excitation level of 50. The database is only valid under the assumption of Local thermodynamical equilibrium. The data has been obtained from Munich Atomic database, Chainti Atomic database, CMFGEN Atomic database and NIST Atomic database
+
+###### Table contains the number of spectral lines from every element in the database
 
 
  Z | Element | Number of Ionization stages | Total Number of Spectral Lines
