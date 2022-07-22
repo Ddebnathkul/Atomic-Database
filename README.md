@@ -45,7 +45,7 @@ Our database contain information about line tranistions from various elements of
 
 # Distribution of the strengths (gf) of the line transitions in our database
 
-Line strengths are represented using a parameter called f<sub>cl</sub> -value, which is the classical oscillator strength. In several cases the f<sub>cl</sub> -value is scaled using the degenaracy of the lower level from which the transition takes place (g f<sub>l</sub> -value). This gives us the strenths of the lines (or gf parameter). The figure below displays the distribution of this gf parameter for every individual spectral line in our database. The figure is scaled logarithmically in both x and y axis. The colors represent the various elements in the database.
+Line strengths are represented using a parameter called f<sub>cl</sub> -value, which is the classical oscillator strength. In several cases the f<sub>cl</sub> -value is scaled using the degenaracy of the lower level from which the transition takes place (g<sub>l</sub> -value). This gives us the strenths of the lines (or gf parameter). The figure below displays the distribution of this gf parameter for every individual spectral line in our database. The figure is scaled logarithmically in both x and y axis. The colors represent the various elements in the database.
 
 
 ![Screenshot](Gf_elementwise_new.png)
