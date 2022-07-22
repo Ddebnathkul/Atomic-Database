@@ -1,9 +1,9 @@
 # Atomic-Database 
 
-## Total number of elements : 30
-## Maximum ionisation stage : 20
-## Maximum excitation level :  50
-## Total number of spectral line transition : 5174882
+###### Total number of elements : 30
+Maximum ionisation stage : 20
+Maximum excitation level :  50
+Total number of spectral line transition : 5174882
 
 Contains data from Munich Atomic database, Chainti Atomic database, CMFGEN Atomic database and NIST Atomic database
 Table contains the number of spectral lines from every element in the database
