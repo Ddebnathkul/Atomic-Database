@@ -42,3 +42,6 @@ Our database contain information about line tranistions from various elements of
 28 |   Ni    |          20                 |          1098690
 29 |   Cu    |           6                 |            60561
 30 |   Zn    |           3                 |             1212
+
+![plot](./images/Gf_elementwise_new.png)
+
