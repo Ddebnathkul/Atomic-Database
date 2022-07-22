@@ -43,5 +43,9 @@ Our database contain information about line tranistions from various elements of
 29 |   Cu    |           6                 |            60561
 30 |   Zn    |           3                 |             1212
 
+# Distribution of the strengths (gf) of the line transitions in our database
+Line strengths are represented using a parameter called <sub>subscript</sub>
+
+
 ![Screenshot](Gf_elementwise_new.png)
 
