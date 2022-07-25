@@ -1,4 +1,5 @@
 # Atomic-Database 
+###### Unfortunately the database isn't public yet, but it will be soon public for use 
 
 ###### Total number of elements : 30
 ###### Maximum ionisation stage : 20
